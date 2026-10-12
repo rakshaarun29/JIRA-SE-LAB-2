@@ -1,4 +1,4 @@
-#I already submitted this on 8th september on teams, but im adding it onto the repo now due to technical issues.
+# I already submitted this on 8th september on teams, but im adding it onto the repo now due to technical issues.
 
 # Local Sports Tournament & Bracket Manager
 
